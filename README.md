@@ -1,4 +1,4 @@
-[Enlgish Version, Click Here](https://github.com/Terry-Su/blogs)
+[For Enlgish Version, Click Here](https://github.com/Terry-Su/blogs)
 # 最近更新：
 * 2019/01/15 &nbsp; [动画演绎排序算法 ](https://terry-su.github.io/cn/demonstrate-sorting-algorithms-using-animated-demos)
 * 2018/12/18 &nbsp; [揭开redux，react-redux的神秘面纱](https://terry-su.github.io/cn/reveal-redux-react-redux-mask)
