@@ -1,6 +1,7 @@
 [English Version, Click Here](https://github.com/Terry-Su/blogs)
 ### 如何订阅？
 点击右上角的“Watch”按钮后，在下拉菜单中选择”Releases only“即可（有最新博客Github将通过邮件为你推送）。
+![](https://user-images.githubusercontent.com/23733477/55521767-b6a6d680-56b4-11e9-9ddf-87b7e2888153.gif)
 # 最近更新：
 * 2019/01/15 &nbsp; [动画演绎排序算法](https://terry-su.github.io/cn/demonstrate-sorting-algorithms-using-animated-demos)
 * 2018/12/18 &nbsp; [揭开redux，react-redux的神秘面纱](https://terry-su.github.io/cn/reveal-redux-react-redux-mask)
