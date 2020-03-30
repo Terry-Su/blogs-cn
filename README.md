@@ -3,6 +3,7 @@
 方法1：关注微信公众号：苏溪云的博客
 
 ![微信公众号：苏溪云的博客](https://user-images.githubusercontent.com/23733477/77869172-2459f400-7270-11ea-8a84-d5d63a426c19.png) 
+
  方法2：点击右上角的“Watch”按钮后，在下拉菜单中选择”Releases only“即可（有最新博客Github将通过邮件为你推送）。
     
 ![](https://user-images.githubusercontent.com/23733477/55521767-b6a6d680-56b4-11e9-9ddf-87b7e2888153.gif)
