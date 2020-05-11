@@ -2,7 +2,8 @@
 > 欢迎通过以下任一平台订阅我的博客：
 > * [知乎](https://zhuanlan.zhihu.com/su-xi-yun)
 > * 微信公众号：苏溪云的博客
-> ![微信订阅号：苏溪云的博客](https://user-images.githubusercontent.com/23733477/77869172-2459f400-7270-11ea-8a84-d5d63a426c19.png)
+>
+>![微信订阅号：苏溪云的博客](https://user-images.githubusercontent.com/23733477/77869172-2459f400-7270-11ea-8a84-d5d63a426c19.png)
 > 
 > * [思否](https://segmentfault.com/u/terry_su/articles)
 > * [掘金](https://juejin.im/user/5ba30d54f265da0aec2255ca/posts)
