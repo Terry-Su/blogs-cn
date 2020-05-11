@@ -8,7 +8,7 @@
 > * [思否](https://segmentfault.com/u/terry_su/articles)
 > * [掘金](https://juejin.im/user/5ba30d54f265da0aec2255ca/posts)
 # 最近更新：
-* 2020/05/11 &nbsp; [彻底搞懂React源码中的调度原理（Concurrent模式）](https://terry-su.github.io/cn/undestand-react-scheduling-mechanism-from-source-code-concurrent-mode)
+* 2020/05/11 &nbsp; [彻底搞懂React源码调度原理（Concurrent模式）](https://terry-su.github.io/cn/undestand-react-scheduling-mechanism-from-source-code-concurrent-mode)
 * 2020/04/09 &nbsp; [搞懂React源码系列-React Diff原理](https://terry-su.github.io/cn/understand-react-diff-algorithm-from-source-codes)
 * 2020/03/30 &nbsp; [轻松学会HTTP缓存（强缓存，协商缓存）](https://terry-su.github.io/cn/http-cache)
 * 2020/01/15 &nbsp; [看完Webpack源码，我学到了这些](https://terry-su.github.io/cn/the-tour-of-travelling-webpack-internals)
@@ -23,7 +23,7 @@
 ### React
 * [揭开redux，react-redux的神秘面纱](https://terry-su.github.io/cn/reveal-redux-react-redux-mask)
 * [搞懂React源码系列-React Diff原理](https://terry-su.github.io/cn/understand-react-diff-algorithm-from-source-codes)
-* [彻底搞懂React源码中的调度原理（Concurrent模式）](https://terry-su.github.io/cn/undestand-react-scheduling-mechanism-from-source-code-concurrent-mode)
+* [彻底搞懂React源码调度原理（Concurrent模式）](https://terry-su.github.io/cn/undestand-react-scheduling-mechanism-from-source-code-concurrent-mode)
 * [使用React手写一个对话框或模态框](https://terry-su.github.io/cn/write-a-modal-or-dialog-using-react)
 ### Webpack
 * [看完Webpack源码，我学到了这些](https://terry-su.github.io/cn/the-tour-of-travelling-webpack-internals)
