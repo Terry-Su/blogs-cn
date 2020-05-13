@@ -5,8 +5,8 @@
 >
 >![微信订阅号：苏溪云的博客](https://user-images.githubusercontent.com/23733477/77869172-2459f400-7270-11ea-8a84-d5d63a426c19.png)
 > 
-> * [思否](https://segmentfault.com/u/terry_su/articles)
 > * [掘金](https://juejin.im/user/5ba30d54f265da0aec2255ca/posts)
+> * [思否](https://segmentfault.com/u/terry_su/articles)
 # 最近更新：
 * 2020/05/11 &nbsp; [彻底搞懂React源码调度原理（Concurrent模式）](https://terry-su.github.io/cn/undestand-react-scheduling-mechanism-from-source-code-concurrent-mode)
 * 2020/04/09 &nbsp; [搞懂React源码系列-React Diff原理](https://terry-su.github.io/cn/understand-react-diff-algorithm-from-source-codes)
