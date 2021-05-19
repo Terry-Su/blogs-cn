@@ -8,11 +8,11 @@
 > * [掘金](https://juejin.im/user/5ba30d54f265da0aec2255ca/posts)
 > * [思否](https://segmentfault.com/u/terry_su/articles)
 # 最近更新：
+* 2021/05/19 &nbsp; [状态管理本应如此简单](https://terry-su.github.io/cn/state-management-should-be-simple-like-this)
 * 2020/12/31 &nbsp; [轻松掌握React Hooks底层实现原理](https://terry-su.github.io/cn/master-react-hooks-mechanism)
 * 2020/06/21 &nbsp; [另辟蹊径搭建阅读React源码调试环境-支持所有React版本细分文件断点调试](https://terry-su.github.io/cn/debug-react-source-code-using-special-method)
 * 2020/05/11 &nbsp; [彻底搞懂React源码调度原理（Concurrent模式）](https://terry-su.github.io/cn/undestand-react-scheduling-mechanism-from-source-code-concurrent-mode)
 * 2020/04/09 &nbsp; [搞懂React源码系列-React Diff原理](https://terry-su.github.io/cn/understand-react-diff-algorithm-from-source-codes)
-* 2020/03/30 &nbsp; [轻松学会HTTP缓存（强缓存，协商缓存）](https://terry-su.github.io/cn/http-cache)
 # 技术
 ## 算法
 * [动画演绎排序算法](https://terry-su.github.io/cn/demonstrate-sorting-algorithms-using-animated-demos)
@@ -24,6 +24,7 @@
 * [另辟蹊径搭建阅读React源码调试环境-支持所有React版本细分文件断点调试](https://terry-su.github.io/cn/debug-react-source-code-using-special-method)
 * [轻松掌握React Hooks底层实现原理](https://terry-su.github.io/cn/master-react-hooks-mechanism)
 * [揭开redux，react-redux的神秘面纱](https://terry-su.github.io/cn/reveal-redux-react-redux-mask)
+* [状态管理本应如此简单](https://terry-su.github.io/cn/state-management-should-be-simple-like-this)
 * [搞懂React源码系列-React Diff原理](https://terry-su.github.io/cn/understand-react-diff-algorithm-from-source-codes)
 * [彻底搞懂React源码调度原理（Concurrent模式）](https://terry-su.github.io/cn/undestand-react-scheduling-mechanism-from-source-code-concurrent-mode)
 * [使用React手写一个对话框或模态框](https://terry-su.github.io/cn/write-a-modal-or-dialog-using-react)
